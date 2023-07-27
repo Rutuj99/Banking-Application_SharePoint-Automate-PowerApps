@@ -59,8 +59,7 @@ Track the status of your loan application through email notifications and the lo
 ![Screenshot 2023-07-14 205137](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/2912ca82-8aeb-40e2-955e-82b16de25d91)
 ![Screenshot 2023-07-14 210104](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/fd0eb010-a79b-486f-8a5a-bd9a544c1e8e)
 ![Screenshot 2023-07-14 210158](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/3783c55d-7ca7-46c2-b76e-88ffd5cbe773)
-![Screenshot 2023-07-22 111021](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerA![Screenshot 2023-07-22 111037](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/05096c63-24fd-489e-98bb-f6f734958717)
-pps/assets/55624994/f167dc30-d51f-487b-b8c8-5501fa39b154)
+
 ![Screenshot 2023-07-22 111108](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/99825c87-707f-4b55-8251-26ffb012d7e2)
 ![Screenshot 2023-07-22 111141](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/80b9e7a2-bf83-4ff5-bfe3-8a5037854000)
 ![Screenshot 2023-07-22 111621](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/0976fae4-f413-48b1-9e50-4f5c39a242ba)
