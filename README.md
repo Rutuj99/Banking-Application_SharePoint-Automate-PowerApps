@@ -1,6 +1,6 @@
 # Banking-Application [SharePoint-Automate-PowerApps]
 
-The Global Bank App is a comprehensive banking application developed using SharePoint, Power Apps, and Power Automate. This app provides a user-friendly and secure banking experience, offering various functionalities, including login, account management, payments, OTP verification, loan application, and loan approval/declined flow. This readme file provides an in-depth overview of the app's features, how to use them, and additional information.
+The Global Bank App is a comprehensive banking application developed using SharePoint, Power Apps, and Power Automate. This app provides a secure banking experience, offering various functionalities, including login, account management, payments, OTP verification, loan application, and loan approval/declined flow, with the SIP feature, users can calculate the total returns they can gain over the years,  This readme file provides an in-depth overview of the app's features, how to use them, and additional information.
 
 ## Introduction
 The Global Bank App is built on the power of SharePoint, Power Apps, and Power Automate, providing seamless integration and robust functionality. Users can securely manage their accounts, perform transactions, and apply for loans using this feature-rich banking application.
@@ -24,6 +24,8 @@ The Global Bank App is built on the power of SharePoint, Power Apps, and Power A
 - Loan Application Form: Users can apply for loans through a form that automatically calculates repayable amounts, monthly installments, total interest, and eligibility based on user inputs.
 
 - Loan Approval / Declined Flow: Loan approval requests are sent via email to authorities. The process includes information verification and branch manager approval. Users receive email notifications and visual indicators on the UI.
+
+- Global Bank SIP Feature: The SIP feature allows users to calculate the potential returns they can gain over the years by making systematic investments. Users can input investment amount, duration, and expected rate of return to get insights into their future savings.
 
 ## Getting Started
 Prerequisites
