@@ -44,6 +44,9 @@ Access payment confirmation details and check your account statement for transac
 Apply for a loan by filling out the loan application form with accurate details.
 Track the status of your loan application through email notifications and the loan approval/declined flow UI.
 
+## Video Explanation Of Project 
+<a>https://drive.google.com/file/d/1oAhdjk68ZX0Km-Y8qHLvEurZO1cTI_lE/view?usp=sharing</a>
+
 ## Implementation ScreenShots
 ![Screenshot 2023-07-22 115729](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/32fb3f2f-ebb0-47a5-ad12-fc84dc7cd3ac)
 ![Screenshot 2023-07-22 115650](https://github.com/Rutuj99/Banking-Application---SharePoint-Automate-PowerApps/assets/55624994/1e994c24-52f3-488f-8534-8b4ffa065ddb)
